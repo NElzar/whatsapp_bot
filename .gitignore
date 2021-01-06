@@ -1,0 +1,3 @@
+.venv
+#db.sqlite3
+#chromedriver # This is for linux 64bit
